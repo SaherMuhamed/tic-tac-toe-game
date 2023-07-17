@@ -20,7 +20,7 @@ This is a simple command-line implementation of the classic game Tic Tac Toe usi
 - The game will continue until one player wins or there is a tie.
 - If a player wins, the game will display the winner.
 - If the game ends in a tie, it will be indicated as well.
-- To terminate the game at any time, press Ctrl + C.
+- To terminate the game at any time, `press Ctrl + C`.
 
 **Have fun playing Tic Tac Toe!**
 
